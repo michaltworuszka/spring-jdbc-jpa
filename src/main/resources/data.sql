@@ -1,0 +1,8 @@
+
+
+INSERT INTO person (ID ,NAME ,LOCATION ) VALUES(10001, 'Mike', 'Poland');
+INSERT INTO person (ID ,NAME ,LOCATION ) VALUES(10002, 'John', 'UK');
+INSERT INTO person (ID ,NAME ,LOCATION ) VALUES(10003, 'Steve', 'USA');
+
+
+
